@@ -39,7 +39,7 @@ export class MenuComponent {
           {
             label: 'Custom Pipes',
             icon: 'pi pi-cog',
-            routerLink: 'custom'
+            routerLink: '/custom'
           }
         ]
       }
